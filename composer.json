@@ -1,0 +1,27 @@
+{
+    "name": "eugenebmx/eugener-test-php",
+    "description": "test app, don't download",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/Seldaek/monolog",
+    "autoload": {
+        "psr-4": {
+            "Eugener\\EugenerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "well known author",
+            "email": "author@example.com"
+        },
+
+        {
+            "name": "Jono",
+            "email": "j.a@das.be",
+            "homepage": "http://seasdasdld.be",
+            "role": "Developer"
+        }
+    ],
+
+    "require": {}
+}
