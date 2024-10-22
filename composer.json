@@ -22,6 +22,11 @@
             "role": "Developer"
         }
     ],
-
+    "support": {
+        "forum": "https://github.com/Seldaek/monolog",
+        "issues": "https://github.com/Seldaek/monolog",
+        "wiki": "https://github.com/Seldaek/monolog"
+    },
+    "readme": "README.md",
     "require": {}
 }
